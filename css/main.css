@@ -1,0 +1,27 @@
+nav
+{
+  text-align: center;
+}
+  a{
+
+  text-decoration: none;
+  color: black;
+padding: 0 2px;
+}
+ul>li{
+  border-right: 3px solid red;
+  width: 100%
+  margin: auto;
+  display: inline-block;
+}
+ul>li>a:hover{
+
+  color: grey;
+}
+section{
+  text-align: center;
+}
+button{
+  border: none;
+  background-color: pink;
+}
